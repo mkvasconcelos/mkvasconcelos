@@ -31,18 +31,18 @@
 <br />
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+| <a href="https://github.com/mkvasconcelos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mkvasconcelos&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mateus's github stats" /></a> | <a href="https://github.com/mkvasconcelos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkvasconcelos&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-  <img align="left" alt="Mateus's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mkvasconcelos&show_icons=true&hide_border=true" />
+#### Top Repositories
 
-</details>
-<details>
-  <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Mateus's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkvasconcelos" />
-
-</details>
+<a href="https://github.com/mkvasconcelos/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkvasconcelos&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/mkvasconcelos/mkvasconcelos.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkvasconcelos&repo=mkvasconcelos.github.io&theme=buefy" />
+</a>
 
 [linkedin]: https://www.linkedin.com/in/mateuskavamotovasconcelos
 [portfolio]: https://github.com/mkvasconcelos

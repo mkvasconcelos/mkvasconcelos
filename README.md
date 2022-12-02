@@ -30,7 +30,7 @@
 <br />
 <br />
 
-| <a href="https://github.com/mkvasconcelos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mkvasconcelos&show_icons=true&theme=buefy&hide_border=true" alt="Mateus's github stats" /></a> | <a href="https://github.com/mkvasconcelos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkvasconcelos&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/mkvasconcelos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mkvasconcelos&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true" alt="Mateus's github stats" /></a> | <a href="https://github.com/mkvasconcelos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkvasconcelos&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 [linkedin]: https://www.linkedin.com/in/mateuskavamotovasconcelos

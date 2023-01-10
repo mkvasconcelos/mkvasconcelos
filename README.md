@@ -3,7 +3,7 @@
 ## I'm a Developer, Chemical Engineer, Researcher and Finance Analyst!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working at VTEX.
-- 🌱 I’m currently learning Node JS and TypeScript.
+- 🌱 I’m currently learning Node JS, TypeScript, Express and MongoDB.
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
